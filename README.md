@@ -1,0 +1,1 @@
+System that retrieves books or texts specified by the user from a database. The Tensorflow, Keras, and NLTK modules were implemented with Python using Natural Language Processing techniques and the Vector Model.
